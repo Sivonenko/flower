@@ -18,5 +18,11 @@
             </path>
             <path d="M37.311 3.292h-15.364v-3.292h15.364v3.292z"></path>
         </symbol>
+        <symbol id="icon-close" viewBox="0 0 32 32">
+            <path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2.6667"
+                d="M24 8l-16 16"></path>
+            <path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2.6667"
+                d="M8 8l16 16"></path>
+        </symbol>
     </defs>
 </svg>
